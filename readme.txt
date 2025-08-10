@@ -1,3 +1,3 @@
 I and GIT friends
-Learning Git step by step - change in master
+Learning Git step by step
 3rd line for new commit
